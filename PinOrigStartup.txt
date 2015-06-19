@@ -1,3 +1,4 @@
+// Update for v1.11
 Pin original code:
 
 It works!!!!BLE Version 7.90
